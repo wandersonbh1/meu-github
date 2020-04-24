@@ -1,0 +1,76 @@
+body{
+	background-color: #F2FFFC;
+	font-family: "Crimson Text", serif;
+	font-size: 20px;
+	line-height: 1.5;
+}
+main h1{
+	font-size: 60px;
+	background-color: #851944;
+	color: #F2FFFC;
+	text-align: center;;
+	font-family: "open-sans",sans-serif;
+	padding: 20px;
+	margin: 0;
+	text-transform: uppercase;
+
+}
+h2{
+	font-size: 40px;
+	font-family: "open-sans",sans-serif;
+}
+p{
+	text-align: justify;
+	margin:30px 0;
+}
+blockquote{
+	background-color: #D3DDDA;
+	padding: 16px;
+	border:10px solid #C2CCCA;
+	width: 250px;
+	margin:0;
+	box-sizing: border-box;
+}
+strong{
+	font-weight: 600;
+}
+em{
+	font-style: italic;
+}
+aside{
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	text-align: center;
+	padding: 20px;
+	font-family: "open-sans Condensed", sans-serif;
+}
+nav a{
+	color: inherit;
+}
+.icones-sociais li{
+	display: inline-block;
+}
+.icones-sociais a{
+	width: 42px;
+	height: 42px;
+	display: inline-block;
+	text-indent: -9999px;
+}
+.github{
+	background-image: url(github.png);
+}
+.linkedin{
+	background-image: url(linkedin.png);
+}
+.facebook{
+	background-image: url(face.png);
+}
+nav h1{
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+footer{
+	background-color: #000;
+	color: #F2FFFC;
+	padding: 20px;
+}
