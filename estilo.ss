@@ -1,0 +1,14 @@
+h2{
+	background-color:#5599DD;
+	color:#DDDDDD
+}
+.exp{
+	text-indent:50px
+}
+#email{
+	text-decoration:underline;
+	font-style:italic;
+}
+body{
+	font-family:Arial,Helvetica
+}
